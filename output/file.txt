@@ -1,4 +1,0 @@
-Student name : Omar wael
-Id : 12
-Grade : 100
-
