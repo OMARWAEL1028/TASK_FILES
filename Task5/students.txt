@@ -1,0 +1,3 @@
+ahmed mohammed, 1, 99 $
+omar wael, 2, 100 $
+kareem ali, 3, 70 $
